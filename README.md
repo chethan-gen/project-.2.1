@@ -2,8 +2,8 @@
 
 ## HalfAdder
 
-<img src="/Screenshot (163).png/>
+<img src="./Screenshot (163).png"/>
 
 ## FullAdder
 
-<img src="/Screenshot (164).png/>
+<img src="./Screenshot (164).png"/>
